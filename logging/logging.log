@@ -1,0 +1,12 @@
+2018-10-30 10:02:48,771:DEBUG:
+     a    b
+0  1.0  0.0
+1  2.0  1.0
+2  0.0  1.0
+2018-10-30 10:02:48,771:INFO:3. made it to here
+2018-10-30 10:02:48,771:ERROR:Exception occurred
+Traceback (most recent call last):
+  File "log_example.py", line 23, in <module>
+    c = a / b
+ZeroDivisionError: division by zero
+2018-10-30 10:02:48,771:INFO:finished the file
